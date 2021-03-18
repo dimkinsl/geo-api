@@ -1,0 +1,2 @@
+FLASK_APP=geo-api
+FLASK_DEBUG=0
